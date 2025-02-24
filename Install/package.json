@@ -1,0 +1,34 @@
+{
+	"name" : "Test",
+	"display_name" : "test",
+	"description" : "",
+	"module_type" : "packages",
+	"app_type" : "fintech",
+	"category" : "accounts",
+	"version" : "0.0.0",
+	"repo" : "https://github.com/sp-fintech/fintech-packages-accounts-test",
+	"class" : "Apps\\Fintech\\Packages\\Test\\Test",
+	"dependencies" : 
+	{
+		"core" : [],
+		"apptype" : [],
+		"packages" : [],
+		"middlewares" : [],
+		"externals" : 
+		{
+			"composer" : 
+			{
+				"require" : []
+			},
+			"config" : 
+			{
+				"allow-plugins" : []
+			},
+			"extra" : 
+			{
+				"patches" : []
+			}
+		}
+	},
+	"settings" : []
+}
